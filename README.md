@@ -15,7 +15,6 @@ SMART VT is an application designed to subtitle and dub any video, regardless of
 
 ## Prerequisites
 
-- Kali Linux (or another Linux distribution)
 - Python 3.x
 - Node.js
 - Git
@@ -35,7 +34,7 @@ The project is structured into three main parts:
 ### 1. Clone the Project
 
 ```bash
-git clone https://github.com/mathias-kinninkpo/SMART-VT-APP.git
+git clone https://github.com/Charlot-DEDJINOU/Hackathon-IA-Multimodal-Multilingue
 ```
 
 ### 2. Configure the Virtual Environment
